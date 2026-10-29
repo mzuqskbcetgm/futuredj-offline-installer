@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-DJ+Software-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 future.dj Free Installer** — future.dj is a DJ mixing application for macOS and iOS that provides a full-featured DJ setup with four decks, effects, sampler, and recording capability. Works without internet access, no account required. Full offline installation.
+**💻 future.dj Free Installer** — future. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About future.dj
 
-future.dj is a DJ mixing application for macOS and iOS that provides a full-featured DJ setup with four decks, effects, sampler, and recording capability. It supports MIDI controllers and audio interfaces for a complete performance and practice DJ environment.
+future.dj is a DJ application for Windows and macOS featuring two decks, automatic beat matching, effects, and a simple music browser. Targeting beginner to intermediate DJs, future.dj provides essential mixing tools in an approachable package. With built-in BPM detection and visual waveforms, future.dj makes learning the basics of DJing accessible.
 
 ---
 
 ## ❌ Problem: future.dj is hard to access
 
-- **macOS and iOS Primary** — Best experience on Apple devices
-- **Paid License** — Requires purchase
-- **Competition** — djay Pro and Serato DJ have larger user communities
-- **Hardware Integration** — Less controller compatibility than industry-standard DJ software
+- **Feature Depth** — Less capable than professional DJ software for advanced techniques
+- **Hardware Support** — Limited controller compatibility compared to major DJ software
+- **Commercial License** — Paid software after trial
+- **Community Size** — Smaller community than Serato or rekordbox users
 
 ---
 
@@ -121,7 +121,7 @@ future.dj is a DJ mixing application for macOS and iOS that provides a full-feat
 
 ---
 
-**future.dj Free Installer** — future.dj is a DJ mixing application for macOS and iOS that provides a full-featured DJ setup with four decks, effects, sampler, and recording capability. Install without internet connection today!
+**future.dj Free Installer** — future. Install without internet connection today!
 
 <div align="center">
 
